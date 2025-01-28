@@ -16,3 +16,13 @@ Follow the steps below to set up and run the application:
 
 1. Python 3.7 or higher
 2. pip (Python package installer)
+
+## Model Overview
+
+The hybrid model used in this project combines the strengths of VGG19 and ResNet to improve accuracy in plant disease classification. By leveraging the power of these pre-trained deep learning models, we can achieve higher performance on plant leaf images, detecting infections caused by various plant diseases.
+
+## Model Workflow
+
+1. **Image Preprocessing**: The uploaded plant image is resized and normalized for model input.
+2. **Model Prediction**: The image is passed through the hybrid model, which is composed of layers from both VGG19 and ResNet.
+3. **Result Output**: The model outputs a classification label indicating whether the plant is infected or healthy.
