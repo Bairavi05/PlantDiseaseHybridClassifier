@@ -6,7 +6,7 @@ This repository contains a hybrid plant disease classification model using VGG19
 
 - **Hybrid Model**: Uses a combination of VGG19 and ResNet architectures for improved plant disease classification accuracy.
 - **Flask Web Application**: A simple web interface where users can upload an image of a plant leaf and get a prediction on whether the plant is infected or healthy.
-- **Image Classification**: The model classifies plant leaves into two categories: infected or healthy.
+- **Image Classification**: The model classifies plant leaves into two categories: infected or healthy. 
 
 ## Installation
 
