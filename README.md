@@ -9,7 +9,7 @@ This repository contains a hybrid plant disease classification model using VGG19
 - **Image Classification**: The model classifies plant leaves into two categories: infected or healthy. 
   
 ## Installation
-
+ 
 Follow the steps below to set up and run the application:
 
 ### Prerequisites
